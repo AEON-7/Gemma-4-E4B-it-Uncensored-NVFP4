@@ -1,7 +1,7 @@
 # Gemma-4-E4B-it-Uncensored-NVFP4
 
 [![Model](https://img.shields.io/badge/HuggingFace-AEON--7%2FGemma--4--E4B--it--Uncensored--NVFP4-yellow)](https://huggingface.co/AEON-7/Gemma-4-E4B-it-Uncensored-NVFP4)
-[![☕ Tips](https://img.shields.io/badge/%E2%98%95_Tips-Support_the_work-ff5e5b?style=flat)](https://github.com/AEON-7/AEON-7#-support-the-work) [![Buy me a lotus tea on LotusMake](https://lotusmake.com/badges/lotus-tea-dark.v1.svg)](https://lotusmake.com/support?via=tea)
+[![☕ Tips](https://img.shields.io/badge/%E2%98%95_Tips-Support_the_work-ff5e5b?style=flat)](https://github.com/AEON-7/AEON-7#-support-the-work) [![Buy me a coffee on LotusMake](https://lotusmake.com/badges/coffee-light.v2.svg)](https://lotusmake.com/support) [![Subscribe on lotusmake.com](https://lotusmake.com/badges/subscribe-light.v2.svg)](https://lotusmake.com/support?mode=tiers)
 [![License](https://img.shields.io/badge/License-Gemma_Terms-green)](https://ai.google.dev/gemma/terms)
 
 EAGLE-style speculative-decoding drafter for the Gemma 4 26B A4B-it Uncensored MoE, NVFP4-quantized for Blackwell-class GPUs (DGX Spark / RTX PRO 6000 / RTX 5090 / B100 / B200).
@@ -36,7 +36,7 @@ AEON-7 models, drafters and tools are built and trained independently, on my own
 
 Patreon wrongfully shut down our account without notice and never responded to our appeals, so we built something even better. You can now support the work on **LotusMake**: buy us a Lotus Tea, fund GPU hours, back a project you want to see done, or subscribe for early and full access to publications while supporting what we build. You can become a creator there too: join, apply to become a creator, and get paid for the work you do in public.
 
-[![Buy me a lotus tea on LotusMake](https://lotusmake.com/badges/lotus-tea-dark.v1.svg)](https://lotusmake.com/support?via=tea)
+[![Buy me a coffee on LotusMake](https://lotusmake.com/badges/coffee-light.v2.svg)](https://lotusmake.com/support) [![Subscribe on lotusmake.com](https://lotusmake.com/badges/subscribe-light.v2.svg)](https://lotusmake.com/support?mode=tiers)
 
 **[AEON FORGE on LotusMake → lotusmake.com/c/aeon-forge](https://lotusmake.com/c/aeon-forge)** · **[Subscribe for early and full access](https://lotusmake.com/support?mode=tiers&from=%2Fc%2Faeon-forge)**
 
